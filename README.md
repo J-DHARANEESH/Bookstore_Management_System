@@ -1,2 +1,2 @@
 # book-store
-A small python GUI application that will store book information
+A simple GUI application that stores all the details of a book at each entry given by the bookstore
